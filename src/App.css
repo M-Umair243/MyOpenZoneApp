@@ -1,0 +1,14 @@
+.Container{
+max-width: 1180px;
+margin: 0 auto;
+max-height: 80px;
+padding: 0px 24px;
+}
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #4b4747;
+    margin: 1em 0;
+    padding: 0;
+}
